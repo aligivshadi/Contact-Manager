@@ -4,6 +4,7 @@ Allows users to store, search, update, and manage contacts easily.
   
 ------------------------------------------------------------  
 📸 Screenshot  
+   
 ![Alt text](Screenshot_20251122_134328.png)  
 ------------------------------------------------------------  
 
@@ -15,13 +16,14 @@ Allows users to store, search, update, and manage contacts easily.
 - Delete contacts  
 - Auto-save data to local storage  
 ------------------------------------------------------------
-
+```sh
 📂 Project Structure  
 contact-manager/  
 ├── main.py  
 ├── data_structure.py  
 ├── Screenshot_20251122_134328.png  
-└── README.md  
+└── README.md
+```
 ------------------------------------------------------------
 
 🚀 How to Run  
