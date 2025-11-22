@@ -3,7 +3,7 @@ A simple terminal-based Contact Manager written in Python.
 Allows users to store, search, update, and manage contacts easily.  
   
 ------------------------------------------------------------  
-📸 Screenshot
+📸 Screenshot  
 ![Alt text](Screenshot_20251122_134328.png)  
 ------------------------------------------------------------  
 
